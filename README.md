@@ -1,2 +1,2 @@
 # TCC_PUC
-Trabalho de conclusão de curso - Engenharia de Software
+Trabalho de conclusão de curso - Pós Graduação em Engenharia de Software
