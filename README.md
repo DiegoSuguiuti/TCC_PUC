@@ -17,5 +17,5 @@ Casos de uso:
 - Remove Tasks
 - Reports
 
-Dispinibilizado alguns documentos que foram utilizados no desenvolvimento do projeto 
+Disponibilizado alguns documentos que foram utilizados no desenvolvimento do projeto 
 Pontos de funçãoinclusos na planilha.
